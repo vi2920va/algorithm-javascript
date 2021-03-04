@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [JavaScript alorithm](README.md)
 
 ## Chapter1-1
 
