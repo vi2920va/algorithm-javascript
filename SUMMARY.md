@@ -10,4 +10,6 @@
 * [문제 4 : 변수의 타입 2](chapter1-1/4-2.md)
 * [문제 5 : for문 계산](chapter1-1/5-for.md)
 * [문제 6 : false](chapter1-1/6-false.md)
+* [문제 7 : 변수명](chapter1-1/7.md)
+* [문제 8 : 객체의 키 이름 중복](chapter1-1/8.md)
 
