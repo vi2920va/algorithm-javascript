@@ -59,7 +59,9 @@ let result = year.concat(
 console.log(result); // 2021/03/11/15:32:43
 ```
 
+#### Reference
 
+String.prototype.concat\(\) [→\(MDN\)](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/String/concat)
 
 
 
