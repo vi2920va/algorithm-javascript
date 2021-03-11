@@ -41,8 +41,6 @@ str.concat(string2, string3[, ..., stringN])
 
 주어진 문자열을 모두 붙인 새로운 문자열.
 
-#### concat을 활용한 출력 방법 닶
-
 ```javascript
 let year = '2021';
 let month = '03';
