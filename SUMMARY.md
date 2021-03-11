@@ -12,4 +12,5 @@
 * [문제 6 : false](chapter1-1/6-false.md)
 * [문제 7 : 변수명](chapter1-1/7.md)
 * [문제 8 : 객체의 키 이름 중복](chapter1-1/8.md)
+* [문제 9 : concat을 활용한 출력 방법](chapter1-1/9-concat.md)
 
