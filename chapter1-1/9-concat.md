@@ -33,7 +33,7 @@ str.concat(string2, string3[, ..., stringN])
 
 **매개변수\(Parameters\)**
 
-`string2...stringN` 
+`string2...stringN`
 
 합칠 문자열.
 
