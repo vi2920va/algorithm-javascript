@@ -17,5 +17,8 @@
 
 ## chater1-2
 
-* [Untitled](chater1-2/untitled.md)
+* [문제 11 : for를 이용한 기본 활용](chater1-2/untitled.md)
+* [문제 12 : 게임 캐릭터 클래스 만들기](chater1-2/12.md)
+* [문제 13 : 몇 번째 행성인가요?](chater1-2/13.md)
+* [문제 14 : 3의 배수 인가요?](chater1-2/14-3.md)
 
