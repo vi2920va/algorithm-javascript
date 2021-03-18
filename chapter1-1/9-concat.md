@@ -21,13 +21,13 @@ console.log(result);
 
 ### 문제 9 : concat을 활용한 출력 방법\(풀이\)
 
-#### String.prototype.concat\(\)
+#### 1\) String.prototype.concat\(\)
 
 `concat()` 함수는 호출 문자열에 문자열 인수를 이어 붙인 결과를 반환한다. 원본 문자열과 결과 문자열의 변형은 서로에게 영향을 미치지 않는다. 만약 인수가 문자열이 아니면 계산 전에 문자열로 변환한다.
 
 {% code title="Syntax" %}
 ```javascript
-str.concat(string2, string3[, ..., stringN])
+string.concat(string2, string3[, ..., stringN])
 ```
 {% endcode %}
 
@@ -40,6 +40,8 @@ str.concat(string2, string3[, ..., stringN])
 **반환 값\(Return Value\)**
 
 주어진 문자열을 모두 붙인 새로운 문자열.
+
+#### 2\) 풀이
 
 ```javascript
 let year = '2021';
