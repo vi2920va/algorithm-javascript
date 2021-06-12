@@ -41,3 +41,7 @@
 * [문제 29 : 대문자만 지나가세요.](chater1-3/29-..md)
 * [문제 30 : 문자열 속 문자 찾기](chater1-3/30.md)
 
+## chater1-4
+
+* [문제 31 : JavaScript 자료형의 복잡도](chater1-4/31-javascript.md)
+
