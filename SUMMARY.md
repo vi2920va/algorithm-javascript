@@ -46,4 +46,5 @@
 * [문제 31 : JavaScript 자료형의 복잡도](chater1-4/31-javascript.md)
 * [문제 32 : 문자열 만들기](chater1-4/32.md)
 * [문제 33 : 거꾸로 출력하기](chater1-4/33.md)
+* [문제 34 : sort 구현하기](chater1-4/34-sort.md)
 
