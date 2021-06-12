@@ -12,5 +12,18 @@
 
 ### 문제 21 : set은 어떻게 만드나요?\(풀이\)
 
+Set객체는 중복되지 않는 값\(value\)을 저장하는 데이터 구조이다. Set을 만드는 방법으로  옳은 것은 3번과 5번이지만, 3번은 중복되는 문자가 있어서 의도치 않게 저장될 수도 있다는 점을 어렴해야 한다.
 
+```javascript
+// set은 중복되지 않은 데이터를 저장하는 데이터 구조
+const list = [1, 2, 2, 3, 4, 5, 5, 5, 6];
+
+const setVal = new Set(list);
+setVal.add(10);
+console.log(setVal);
+
+const x = new Set('javascript');
+console.log(x); // javscript
+console.log(x.size); // 9
+```
 
