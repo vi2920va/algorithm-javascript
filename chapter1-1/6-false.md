@@ -2,7 +2,7 @@
 
 ### 문제 6 : false
 
-다 음은 JavaScript 문법 중에서 false로 취급하는 것들 입니다. 앗 false로 취급되지 않는 것이 하나 있네요! true를 찾아주세요.
+다 음은 JavaScript 문법 중에서 false로 취급하는 것들 입니다. 앗 false로 취급되지 않는 것이 하나 있네요! **true를 찾아주세요.**
 
 1. NaN
 2. **1**
