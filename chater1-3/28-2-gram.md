@@ -29,10 +29,10 @@
 
 
 ```javascript
-const title = 'javascript'.split('');
+const str = prompt().split('');
 
-for (let i = 0; i < title.length - 1; i++) {
-  console.log(title[i], title[i + 1]);
+for (let i = 0; i < str.length - 1; i++) {
+  console.log(str[i], str[i + 1]);
   // 0 1
   // 1 2
   // 2 3
