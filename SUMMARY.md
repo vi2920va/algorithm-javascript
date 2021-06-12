@@ -48,4 +48,6 @@
 * [문제 33 : 거꾸로 출력하기](chater1-4/33.md)
 * [문제 34 : sort 구현하기](chater1-4/34-sort.md)
 * [문제 35 : Factory  함수 사용하기](chater1-4/35-factory.md)
+* [문제 36 : 구구단 출력하기](chater1-4/36.md)
+* [문제 37 : 반장 선거](chater1-4/37.md)
 
