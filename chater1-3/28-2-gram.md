@@ -26,8 +26,6 @@
 
 ### 문제 28 : 2-gram\(풀이\)
 
-
-
 ```javascript
 const str = prompt().split('');
 
