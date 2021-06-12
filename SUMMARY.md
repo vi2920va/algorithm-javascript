@@ -15,7 +15,7 @@
 * [문제 9 : concat을 활용한 출력 방법](chapter1-1/9-concat.md)
 * [문제 10 : 별 찍기](chapter1-1/10.md)
 
-## chater1-2
+## chapter1-2 <a id="chater1-2"></a>
 
 * [문제 11 : for를 이용한 기본 활용](chater1-2/untitled.md)
 * [문제 12 : 게임 캐릭터 클래스 만들기](chater1-2/12.md)
@@ -40,4 +40,25 @@
 * [문제 28 : 2-gram](chater1-3/28-2-gram.md)
 * [문제 29 : 대문자만 지나가세요.](chater1-3/29-..md)
 * [문제 30 : 문자열 속 문자 찾기](chater1-3/30.md)
+
+## chapter1-4 <a id="chater1-4"></a>
+
+* [문제 31 : JavaScript 자료형의 복잡도](chater1-4/31-javascript.md)
+* [문제 32 : 문자열 만들기](chater1-4/32.md)
+* [문제 33 : 거꾸로 출력하기](chater1-4/33.md)
+* [문제 34 : sort 구현하기](chater1-4/34-sort.md)
+* [문제 35 : Factory  함수 사용하기](chater1-4/35-factory.md)
+* [문제 36 : 구구단 출력하기](chater1-4/36.md)
+* [문제 37 : 반장 선거](chater1-4/37.md)
+* [문제 38 : 호준이의 아르바이트](chater1-4/38.md)
+* [문제 39 : 오타 수정하기](chater1-4/39.md)
+* [문제 40 : 놀이동산에 가자](chater1-4/40.md)
+
+## chapter1-5
+
+* [문제41 : 소수판별](chapter1-5/41.md)
+* [문제 42 : 2020년](chapter1-5/42-2020.md)
+* [문제 43 : 10진수를 2진수로](chapter1-5/43-10-2.md)
+* [문제 44 : 각 자리수의 합](chapter1-5/44.md)
+* [문제 45 : getTime\(\)함수 사용하기](chapter1-5/45-gettime.md)
 
