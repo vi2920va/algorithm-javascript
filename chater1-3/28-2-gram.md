@@ -24,5 +24,20 @@
 
 ### 문제 28 : 2-gram\(풀이\)
 
+```javascript
+const title = 'javascript'.split('');
 
+for (let i = 0; i < title.length - 1; i++) {
+  console.log(title[i], title[i + 1]);
+  // 0 1
+  // 1 2
+  // 2 3
+  // 3 4
+  // 4 5
+  // 5 6
+  // 6 7
+  // 7 8
+  // 8 9
+}
+```
 
