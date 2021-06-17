@@ -16,3 +16,27 @@
 // 출력 : YES
 ```
 
+### 문제 34 : sort 구현하기\(풀이\)
+
+먼저 `unsorted` 변수에 키를 입력 받아서 배열로 변환한 다음에 ****`arr.sort()`메서드를 통해서 오름차순 정렬해줘야 한다. 오름차순을 통해서 정렬된 배열은 문자열로 다시 바꿔준 다음에 입력 받은 값과 정렬된 값과 비교하여 그에 따른 결과값을 반환한다.
+
+```javascript
+const unsorted = prompt(' ');
+let sorted = unsorted
+  .split(' ')
+  .sort((x, y) => x - y)
+  .join(' ');
+
+console.log(unsorted === sorted ? 'YES' : 'NO');
+```
+
+ Reference
+
+String.prototype.split\(\)[→\(MDN\)](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/String/split)
+
+Array.prototype.sort\(\)[→\(MDN\)](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Array/sort)
+
+Array.prototype.join\(\)[ →\(MDN\)](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Array/join)
+
+Conditional \(ternary\) operator [→\(MDN\)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Conditional_Operator)
+
