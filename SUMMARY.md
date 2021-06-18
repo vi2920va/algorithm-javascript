@@ -73,4 +73,5 @@
 * [문제 52 : quick sort](chapter1-6/52-quick-sort.md)
 * [문제 53 : 괄호 문자열](chapter1-6/53.md)
 * [문제 54 : 연속되는 수](chapter1-6/untitled.md)
+* [문제 55 : 하노이의 탑](chapter1-6/55.md)
 
