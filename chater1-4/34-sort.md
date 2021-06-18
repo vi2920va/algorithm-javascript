@@ -30,7 +30,7 @@ let sorted = unsorted
 console.log(unsorted === sorted ? 'YES' : 'NO');
 ```
 
- Reference
+####  Reference
 
 String.prototype.split\(\)[→\(MDN\)](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/String/split)
 
