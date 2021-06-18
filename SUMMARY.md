@@ -65,4 +65,12 @@
 * [문제 47 : set 자료형의 응용](chapter1-5/47-set.md)
 * [문제 48 : 대소문자 바꿔서 출력하기](chapter1-5/48.md)
 * [문제 49 : 최대값 구하기](chapter1-5/49.md)
+* [문제 50 : 버블정렬 구현하기](chapter1-5/50.md)
+
+## chapter2-1 <a id="chapter1-6"></a>
+
+* [문제 51 : merge sort를 만들어보자](chapter1-6/51-merge-sort.md)
+* [문제 52 : quick sort](chapter1-6/52-quick-sort.md)
+* [문제 53 : 괄호 문자열](chapter1-6/53.md)
+* [Untitled](chapter1-6/untitled.md)
 
