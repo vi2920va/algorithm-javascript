@@ -21,7 +21,7 @@
 먼저 `unsorted` 변수에 키를 입력 받아서 배열로 변환한 다음에 ****`arr.sort()`메서드를 통해서 오름차순 정렬해줘야 한다. 오름차순을 통해서 정렬된 배열은 문자열로 다시 바꿔준 다음에 입력 받은 값과 정렬된 값과 비교하여 그에 따른 결과값을 반환한다.
 
 ```javascript
-const unsorted = prompt(' ');
+const unsorted = prompt('');
 let sorted = unsorted
   .split(' ')
   .sort((x, y) => x - y)
