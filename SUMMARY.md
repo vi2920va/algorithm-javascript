@@ -62,4 +62,6 @@
 * [문제 44 : 각 자리수의 합](chapter1-5/44.md)
 * [문제 45 : getTime\(\)함수 사용하기](chapter1-5/45-gettime.md)
 * [문제 46 : 각 자리수의 합 2](chapter1-5/46-2.md)
+* [문제 47 : set 자료형의 응용](chapter1-5/47-set.md)
+* [문제 48 : 대소문자 바꿔서 출력하기](chapter1-5/48.md)
 
