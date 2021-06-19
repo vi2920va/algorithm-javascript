@@ -61,4 +61,22 @@
 * [문제 43 : 10진수를 2진수로](chapter1-5/43-10-2.md)
 * [문제 44 : 각 자리수의 합](chapter1-5/44.md)
 * [문제 45 : getTime\(\)함수 사용하기](chapter1-5/45-gettime.md)
+* [문제 46 : 각 자리수의 합 2](chapter1-5/46-2.md)
+* [문제 47 : set 자료형의 응용](chapter1-5/47-set.md)
+* [문제 48 : 대소문자 바꿔서 출력하기](chapter1-5/48.md)
+* [문제 49 : 최대값 구하기](chapter1-5/49.md)
+* [문제 50 : 버블정렬 구현하기](chapter1-5/50.md)
+
+## chapter2-1 <a id="chapter1-6"></a>
+
+* [문제 51 : merge sort를 만들어보자](chapter1-6/51-merge-sort.md)
+* [문제 52 : quick sort](chapter1-6/52-quick-sort.md)
+* [문제 53 : 괄호 문자열](chapter1-6/53.md)
+* [문제 54 : 연속되는 수](chapter1-6/untitled.md)
+* [문제 55 : 하노이의 탑](chapter1-6/55.md)
+* [문제 56 : 객체의 함수 응용](chapter1-6/56.md)
+* [문제 57 : 1의 개수](chapter1-6/57-1.md)
+* [문제 58 : 콤마 찍기](chapter1-6/58.md)
+* [문제 59 : 빈칸채우기](chapter1-6/59.md)
+* [문제 60 : 번호 매기기](chapter1-6/60.md)
 
