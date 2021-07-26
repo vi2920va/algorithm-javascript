@@ -19,7 +19,7 @@ let result;
 console.log(result);
 ```
 
-### 문제 9 : concat을 활용한 출력 방법\(풀이\)
+### 문제 답안
 
 #### 1\) String.prototype.concat\(\)
 
