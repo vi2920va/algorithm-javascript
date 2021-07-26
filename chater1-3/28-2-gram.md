@@ -22,9 +22,7 @@
 // p t
 ```
 
-
-
-### 문제 28 : 2-gram\(풀이\)
+### 문제 답안
 
 ```javascript
 const str = prompt().split('');
