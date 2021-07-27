@@ -13,7 +13,7 @@
 * [문제 7 : 변수명](chapter1-1/7.variable-name.md)
 * [문제 8 : 객체의 키 이름 중복](chapter1-1/8.duplicate-the-objects-key.md)
 * [문제 9 : concat을 활용한 출력 방법](chapter1-1/9.concat-output.md)
-* [문제 10 : 별 찍기](chapter1-1/10.draw-a-star.md)
+* [문제 10 : 별 찍기](chapter1-1/10.star-print.md)
 
 ## chapter1-2
 
@@ -70,20 +70,20 @@
 ## chapter2-1
 
 * [문제 51 : merge sort를 만들어보자](chapter2-1/51-merge-sort.md)
-* [문제 52 : quick sort](chapter2-1/52-quick-sort.md)
-* [문제 53 : 괄호 문자열](chapter2-1/53.md)
-* [문제 54 : 연속되는 수](chapter2-1/untitled.md)
-* [문제 55 : 하노이의 탑](chapter2-1/55.md)
-* [문제 56 : 객체의 함수 응용](chapter2-1/56.md)
-* [문제 57 : 1의 개수](chapter2-1/57-1.md)
-* [문제 58 : 콤마 찍기](chapter2-1/58.md)
-* [문제 59 : 빈칸채우기](chapter2-1/59.md)
-* [문제 60 : 번호 매기기](chapter2-1/60.md)
+* [문제 52 : quick sort](chapter2-1/52.quick-sort.md)
+* [문제 53 : 괄호 문자열](chapter2-1/53.parenthesis-string.md)
+* [문제 54 : 연속되는 수](chapter2-1/54.continuous-number.md)
+* [문제 55 : 하노이의 탑](chapter2-1/55.tower-of-hanoi.md)
+* [문제 56 : 객체의 함수 응용](chapter2-1/56.object-function.md)
+* [문제 57 : 1의 개수](chapter2-1/57.number-of-1.md)
+* [문제 58 : 콤마 찍기](chapter2-1/58.comma-print.md)
+* [문제 59 : 빈칸채우기](chapter2-1/59.fill-in-the-blanks.md)
+* [문제 60 : 번호 매기기](chapter2-1/60.numbering.md)
 
 ## chapter2-2
 
-* [문제 61 : 문자열 압축하기](chapter2-2/61.md)
-* [문제62 : 20210727 출력하기](chapter2-2/62-20210727.md)
-* [문제 63 : 친해지고 싶어](chapter2-2/63.md)
-* [문제 64 : 이상한 엘레베이터](chapter2-2/64.md)
+* [문제 61 : 문자열 압축하기](chapter2-2/61.string-compression.md)
+* [문제62 : 20210727 출력하기](chapter2-2/62-20210727-print.md)
+* [문제 63 : 친해지고 싶어](chapter2-2/63.i-want-to-get-to-know-you..md)
+* [문제 64 : 이상한 엘레베이터](chapter2-2/64.strange-elevator.md)
 
