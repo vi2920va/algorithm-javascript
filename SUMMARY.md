@@ -43,7 +43,7 @@
 
 ## chapter1-4
 
-* [문제 31 : JavaScript 자료형의 복잡도](chapter1-4/31-javascript.md)
+* [문제 31 : JavaScript 자료형의 복잡도](chapter1-4/31-javascript-data-type.md)
 * [문제 32 : 문자열 만들기](chapter1-4/32.create-string.md)
 * [문제 33 : 거꾸로 출력하기](chapter1-4/33.reverse-output.md)
 * [문제 34 : sort 구현하기](chapter1-4/34.sort.md)
