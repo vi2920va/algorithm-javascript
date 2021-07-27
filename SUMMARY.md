@@ -97,4 +97,6 @@
 
 * [문제 71 : 깊이 우선 탐색](chapter2-3/71.depth-priority-navigation.md)
 * [문제 72 : 너비 우선 탐색](chapter2-3/72.width-first-navigation.md)
+* [문제 73 : 최단 경로 찾기](chapter2-3/73.short-path.md)
+* [문제 74 : 최장 경로 찾기](chapter2-3/74.long-path.md)
 
