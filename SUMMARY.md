@@ -51,21 +51,21 @@
 * [문제 36 : 구구단 출력하기](chapter1-4/36.guguban.md)
 * [문제 37 : 반장 선거](chapter1-4/37.class-president-election.md)
 * [문제 38 : 호준이의 아르바이트](chapter1-4/38.hojuns-part-time.md)
-* [문제 39 : 오타 수정하기](chapter1-4/39.md)
-* [문제 40 : 놀이동산에 가자](chapter1-4/40.md)
+* [문제 39 : 오타 수정하기](chapter1-4/39.replace-wrong-characters.md)
+* [문제 40 : 놀이동산에 가자](chapter1-4/40.amusement-park.md)
 
 ## chapter1-5
 
-* [문제41 : 소수판별](chapter1-5/41.md)
-* [문제 42 : 2021년](chapter1-5/42-2020.md)
-* [문제 43 : 10진수를 2진수로](chapter1-5/43-10-2.md)
-* [문제 44 : 각 자리수의 합](chapter1-5/44.md)
-* [문제 45 : getTime\(\)함수 사용하기](chapter1-5/45-gettime.md)
-* [문제 46 : 각 자리수의 합 2](chapter1-5/46-2.md)
-* [문제 47 : set 자료형의 응용](chapter1-5/47-set.md)
-* [문제 48 : 대소문자 바꿔서 출력하기](chapter1-5/48.md)
-* [문제 49 : 최대값 구하기](chapter1-5/49.md)
-* [문제 50 : 버블정렬 구현하기](chapter1-5/50.md)
+* [문제41 : 소수판별](chapter1-5/41.decimal-verification.md)
+* [문제 42 : 2021년](chapter1-5/42.2021-year.md)
+* [문제 43 : 10진수를 2진수로](chapter1-5/43.decimal-to-binary.md)
+* [문제 44 : 각 자리수의 합](chapter1-5/44.sum-of-each-digit.md)
+* [문제 45 : getTime\(\)함수 사용하기](chapter1-5/45-getime-function.md)
+* [문제 46 : 각 자리수의 합 2](chapter1-5/46.sum-of-each-digit-2.md)
+* [문제 47 : set 자료형의 응용](chapter1-5/47.set-datatype-application.md)
+* [문제 48 : 대소문자 바꿔서 출력하기](chapter1-5/48.replace-case.md)
+* [문제 49 : 최대값 구하기](chapter1-5/49.maximum-value.md)
+* [문제 50 : 버블정렬 구현하기](chapter1-5/50.bubble-sort.md)
 
 ## chapter2-1
 
