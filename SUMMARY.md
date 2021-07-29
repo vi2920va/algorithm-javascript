@@ -99,4 +99,5 @@
 * [문제 72 : 너비 우선 탐색](chapter2-3/72.width-first-navigation.md)
 * [문제 73 : 최단 경로 찾기](chapter2-3/73.short-path.md)
 * [문제 74 : 최장 경로 찾기](chapter2-3/74.long-path.md)
+* [문제 75 : 이상한 369](chapter2-3/75.369-game.md)
 
