@@ -43,7 +43,7 @@
 
 ## chapter1-4
 
-* [문제 31 : JavaScript 자료형의 복잡도](chapter1-4/31-javascript.md)
+* [문제 31 : JavaScript 자료형의 복잡도](chapter1-4/31-javascript-data-type.md)
 * [문제 32 : 문자열 만들기](chapter1-4/32.create-string.md)
 * [문제 33 : 거꾸로 출력하기](chapter1-4/33.reverse-output.md)
 * [문제 34 : sort 구현하기](chapter1-4/34.sort.md)
@@ -86,4 +86,18 @@
 * [문제62 : 20210727 출력하기](chapter2-2/62-20210727-print.md)
 * [문제 63 : 친해지고 싶어](chapter2-2/63.i-want-to-get-to-know-you..md)
 * [문제 64 : 이상한 엘레베이터](chapter2-2/64.strange-elevator.md)
+* [문제65 :변형된 리스트](chapter2-2/65.list.md)
+* [문제 66 :  블럭탑 쌓기](chapter2-2/66.stack-block-top.md)
+* [문제 67 : 민규의 악수](chapter2-2/67.mingyus-handshake.md)
+* [문제 68 : 버스 시간표](chapter2-2/68.bus-timetable.md)
+* [문제 69 : 골드바흐의 추측](chapter2-2/69.goldbachs-conjecture.md)
+* [문제 70 : 행렬 곱하기](chapter2-2/70.matrix-multiplication.md)
+
+## chapter2-3
+
+* [문제 71 : 깊이 우선 탐색](chapter2-3/71.depth-priority-navigation.md)
+* [문제 72 : 너비 우선 탐색](chapter2-3/72.width-first-navigation.md)
+* [문제 73 : 최단 경로 찾기](chapter2-3/73.short-path.md)
+* [문제 74 : 최장 경로 찾기](chapter2-3/74.long-path.md)
+* [문제 75 : 이상한 369](chapter2-3/75.369-game.md)
 
