@@ -1,6 +1,6 @@
 # Table of contents
 
-* [JavaScript 100제](README.md)
+* [🗒 JavaScript 100제](README.md)
 
 ## chapter1-1
 
@@ -47,7 +47,7 @@
 * [문제 32 : 문자열 만들기](chapter1-4/32.create-string.md)
 * [문제 33 : 거꾸로 출력하기](chapter1-4/33.reverse-output.md)
 * [문제 34 : sort 구현하기](chapter1-4/34.sort.md)
-* [문제 35 : Factory  함수 사용하기](chapter1-4/35.factory-function.md)
+* [문제 35 : Factory 함수 사용하기](chapter1-4/35.factory-function.md)
 * [문제 36 : 구구단 출력하기](chapter1-4/36.guguban.md)
 * [문제 37 : 반장 선거](chapter1-4/37.class-president-election.md)
 * [문제 38 : 호준이의 아르바이트](chapter1-4/38.hojuns-part-time.md)
@@ -87,7 +87,7 @@
 * [문제 63 : 친해지고 싶어](chapter2-2/63.i-want-to-get-to-know-you..md)
 * [문제 64 : 이상한 엘레베이터](chapter2-2/64.strange-elevator.md)
 * [문제65 :변형된 리스트](chapter2-2/65.list.md)
-* [문제 66 :  블럭탑 쌓기](chapter2-2/66.stack-block-top.md)
+* [문제 66 : 블럭탑 쌓기](chapter2-2/66.stack-block-top.md)
 * [문제 67 : 민규의 악수](chapter2-2/67.mingyus-handshake.md)
 * [문제 68 : 버스 시간표](chapter2-2/68.bus-timetable.md)
 * [문제 69 : 골드바흐의 추측](chapter2-2/69.goldbachs-conjecture.md)
