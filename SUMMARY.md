@@ -1,6 +1,6 @@
 # Table of contents
 
-* [JavaScript Alorithm](README.md)
+* [JavaScript 100제](README.md)
 
 ## chapter1-1
 
@@ -60,7 +60,7 @@
 * [문제 42 : 2021년](chapter1-5/42.2021-year.md)
 * [문제 43 : 10진수를 2진수로](chapter1-5/43.decimal-to-binary.md)
 * [문제 44 : 각 자리수의 합](chapter1-5/44.sum-of-each-digit.md)
-* [문제 45 : getTime\(\)함수 사용하기](chapter1-5/45-getime-function.md)
+* [문제 45 : getTime()함수 사용하기](chapter1-5/45-getime-function.md)
 * [문제 46 : 각 자리수의 합 2](chapter1-5/46.sum-of-each-digit-2.md)
 * [문제 47 : set 자료형의 응용](chapter1-5/47.set-datatype-application.md)
 * [문제 48 : 대소문자 바꿔서 출력하기](chapter1-5/48.replace-case.md)
@@ -100,4 +100,3 @@
 * [문제 73 : 최단 경로 찾기](chapter2-3/73.short-path.md)
 * [문제 74 : 최장 경로 찾기](chapter2-3/74.long-path.md)
 * [문제 75 : 이상한 369](chapter2-3/75.369-game.md)
-
